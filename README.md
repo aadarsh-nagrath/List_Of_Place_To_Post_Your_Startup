@@ -396,3 +396,4 @@ A complete list of launch platforms, media outlets, directories, communities, an
 | 388 | Sitejabber | https://www.sitejabber.com/ | Directory | 86 | High |
 | 389 | SaasGenius | https://www.saasgenius.com/get-listed/ | Directory | 87 | High |
 | 390 | Library of Apps | https://libraryofapps.com/ | Directory | 5 | Low |
+| 391 | SaaSCity | https://saascity.io/submit | Directory | 59 | High |
